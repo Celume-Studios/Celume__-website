@@ -11,7 +11,7 @@ const siteConfig = {
     sourcecode: 'https://sourcecode.lokkeestudios.com',
     github: 'https://github.lokkeestudios.com',
     discord: 'https://discord.lokkeestudios.com',
-    instagram: 'https://instagram.lokkeestudios.com',
+    instagram: 'https://www.instagram.com/celumestudios?igsh=dDhoMjUwa29raTVn',
     linkedin: 'https://linkedin.lokkeestudios.com',
     dribbble: 'https://dribbble.lokkeestudios.com',
     behance: 'https://behance.lokkeestudios.com',

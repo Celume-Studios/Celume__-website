@@ -36,7 +36,7 @@ function ContactForm() {
       <Heading>I will be in touch with you</Heading>
       <Image
         metadata={contactSuccessImage}
-        alt="A flying paper plane"
+        alt="A flying paper plane "
       />
     </div>
   ) : (
